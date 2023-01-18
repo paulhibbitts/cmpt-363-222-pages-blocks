@@ -24,7 +24,7 @@
 
 </div>
 
-<h1> Discord Student Office Hours 👩🏽‍💻👨🏽‍💻 </h1>
+<h1> Discord Student Office Hours ‍👩🏽‍💻👨🏽‍💻 </h1>
 
 <div class="row">
 <div class="column">
