@@ -3,7 +3,7 @@
 
 <h1> What’s Happening This Week 💫 </h1>
 
-## [What is the practice of mobile and multi-device interaction design?](https://canvas.sfu.ca/courses/76289/modules/items/2816274)
+<h2> What is the practice of mobile and multi-device interaction design? </h2>
 
 <h3> Live Sessions </h3>
 
@@ -13,6 +13,8 @@
 <h3> Important Reminders </h3>
 
 * [Create Assignment Group](https://canvas.sfu.ca/courses/69678/groups#tab-33258) (only required for pairs) <span class='badge'> [Mon May 23rd 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Create+Student+Project+Group+Due+Date&iso=20220523T235900&p1=256)</span> 
+
+### [Required Readings & One-Minute Summaries (3)](https://canvas.sfu.ca/courses/76289/modules/items/2816274)
 
 [Week 2 Visual Journal Entry due May 19](https://canvas.sfu.ca/courses/69678/assignments/751351 ':class=button')
 
