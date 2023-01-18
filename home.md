@@ -12,9 +12,13 @@
 
 <h3> Important Reminders </h3>
 
-* [Create Assignment Group](https://canvas.sfu.ca/courses/69678/groups#tab-33258) (only required for pairs) <span class='badge'> [Mon May 23rd 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Create+Student+Project+Group+Due+Date&iso=20220523T235900&p1=256)</span> 
+* [Create Assignment Group](https://canvas.sfu.ca/courses/69678/groups#tab-33258) (only required for pairs) <span class='badge'> [Mon May 23rd 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Create+Student+Project+Group+Due+Date&iso=20220523T235900&p1=256)</span>
 
-### [Required Readings & One-Minute Summaries (3)](https://canvas.sfu.ca/courses/76289/modules/items/2816274)
+<h3> Required Readings & One-Minute Summaries </h3>
+
+* [Interaction design: a guide for beginners](https://canvas.sfu.ca/courses/69678/assignments/751339) <span class='badge'> [Sun May 22 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+2+Due+Date&iso=20220522T235900&p1=256)</span>  
+* [Five HCI Laws for User Experience Design](https://canvas.sfu.ca/courses/69678/assignments/751340) <span class='badge'> [Sun May 22 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+2+Due+Date&iso=20220522T235900&p1=256)</span>  
+* [Touch Targets on Touchscreens](https://canvas.sfu.ca/courses/69678/assignments/751335) <span class='badge'> [Sun May 22 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+2+Due+Date&iso=20220522T235900&p1=256)</span>  
 
 [Week 2 Visual Journal Entry due May 19](https://canvas.sfu.ca/courses/69678/assignments/751351 ':class=button')
 
