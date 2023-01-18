@@ -1,7 +1,7 @@
 
 <div class=alert>
 
-<h1> What’s Happening This Week 💫 </h1>
+<h1> What’s Happening This Week💫 </h1>
 
 <h2> What is the practice of mobile and multi-device interaction design? </h2>
 
@@ -24,7 +24,7 @@
 
 </div>
 
-<h1> Discord Student Office Hours ‍👩🏽‍💻👨🏽‍💻 </h1>
+<h1> Discord Student Office Hours‍👩🏽‍💻👨🏽‍💻 </h1>
 
 <div class="row">
 <div class="column">
