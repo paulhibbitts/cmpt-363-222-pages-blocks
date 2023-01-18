@@ -29,7 +29,7 @@
 <div class="row">
 <div class="column">
 
-Audio/Video Call, via Discord Call Queue:  
+Audio/Video Call, via Discord Call Queue  
 Tuesday 1:30-2:00pm PT  
 Friday 3:30-4:00pm PT  
 
